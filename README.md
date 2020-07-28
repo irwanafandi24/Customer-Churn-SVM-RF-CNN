@@ -17,5 +17,5 @@
 
 **Project Overview:**
 
-<p align="center"><img src="image/Customer_Churn.png" width=70%></p>
+<p align="center"><img src="image/customer_churn.png" width=70%></p>
 
